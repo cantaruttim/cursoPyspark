@@ -1,0 +1,6 @@
+﻿cd_identificacao;status
+1;PAGO
+2;APROVADO
+3;RECUSADO
+4;ENTREGUE
+5;NÃO ENTREGUE
